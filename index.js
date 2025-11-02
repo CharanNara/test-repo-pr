@@ -4,3 +4,4 @@ console.log('Doubleupdate code');
 console.log('Tripleupdate code');
 console.log('Quadraple update code checking for gpt response');
 console.log('random code not so useful');
+console.log('Addition of 1 and 2', (1+2));
